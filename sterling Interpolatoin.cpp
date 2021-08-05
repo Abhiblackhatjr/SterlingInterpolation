@@ -1,3 +1,6 @@
+/*sterling interpolation cpp
+feel free to use it
+no copyright*/
 #include<stdio.h>
 #include<math.h>
 #include<conio.h>
